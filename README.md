@@ -1,2 +1,7 @@
-# e-comerce_demo_landing-page
-This is  demo webpage. Assignment by Programming Hero.
+# Bootcamp Project
+
+This is my first project from web development bootcamp.
+
+## Technologies Used
+HTML5
+CSS3
